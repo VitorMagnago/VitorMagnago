@@ -1,16 +1,38 @@
-### Hi there 👋
+<div align="center">
 
-<!--
-**VitorMagnago/VitorMagnago** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
 
-Here are some ideas to get you started:
+## Hello, I'm Victor Magnago and I'm studying to become a Front End developer.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+![](/images/FRONT.png)
+
+## Currently Learning
+
+<br>
+<img src="https://skillicons.dev/icons?i=html,css,js,figma,git," />
+
+<br>
+
+## Planning to Learn
+
+<br>
+<img src="https://skillicons.dev/icons?i=sass,ts,tailwind,bootstrap,styledcomponents,react,nextjs,jest,nodejs,flutter" />
+
+<br>
+<br>
+
+[![Vitor Magnago's GitHub stats](https://github-readme-stats.vercel.app/api?username=VitorMagnago&count_private=true&show_icons=true&theme=gruvbox)](https://github.com/VitorMagnago/github-readme-stats)
+
+<br>
+<br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VitorMagnago&theme=gruvbox)](https://github.com/VitorMagnago/github-readme-stats)
+
+<br>
+<br>
+
+[![Vitor Magnago's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=VitorMagnago&theme=merko&bg_color=282828&title_color=d4a32d&color=d4a32d&line=75a56f&point=ab5e1e)](https://github.com/VitorMagnago/github-readme-activity-graph)
+
+</div>
