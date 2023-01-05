@@ -23,16 +23,16 @@
 <br>
 <br>
 
-[![Vitor Magnago's GitHub stats](https://github-readme-stats.vercel.app/api?username=VitorMagnago&count_private=true&show_icons=true&theme=gruvbox)](https://github.com/VitorMagnago/github-readme-stats)
+![Vitor Magnago's GitHub stats](https://github-readme-stats.vercel.app/api?username=VitorMagnago&count_private=true&show_icons=true&theme=gruvbox)
 
 <br>
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VitorMagnago&theme=gruvbox)](https://github.com/VitorMagnago/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VitorMagnago&theme=gruvbox)
 
 <br>
 <br>
 
-[![Vitor Magnago's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=VitorMagnago&theme=merko&bg_color=282828&title_color=d4a32d&color=d4a32d&line=75a56f&point=ab5e1e)](https://github.com/VitorMagnago/github-readme-activity-graph)
+![Vitor Magnago's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=VitorMagnago&theme=merko&bg_color=282828&title_color=d4a32d&color=d4a32d&line=75a56f&point=ab5e1e)
 
 </div>
