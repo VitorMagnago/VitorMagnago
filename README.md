@@ -2,7 +2,7 @@
 
 <br>
 
-## Hello, I'm Victor Magnago and I'm studying to become a Front End developer.
+## Hello 👋, I'm Victor Magnago and I'm studying to become a Front End developer. 👨🏻‍💻
 
 <br>
 
