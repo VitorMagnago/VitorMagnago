@@ -23,12 +23,12 @@
 <br>
 <br>
 
-![Vitor Magnago's GitHub stats](https://github-readme-stats.vercel.app/api?username=VitorMagnago&count_private=true&show_icons=true&theme=gruvbox)
+![Vitor Magnago's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=VitorMagnago&count_private=true&show_icons=true&theme=gruvbox)
 
 <br>
 <br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VitorMagnago&theme=gruvbox)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=VitorMagnago&theme=gruvbox)
 
 <br>
 <br>
