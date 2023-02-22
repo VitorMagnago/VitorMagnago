@@ -11,14 +11,14 @@
 ## Currently Learning
 
 <br>
-<img src="https://skillicons.dev/icons?i=html,css,js,figma,git," />
+<img src="https://skillicons.dev/icons?i=html,css,js,figma,git,sass,tailwind" />
 
 <br>
 
 ## Planning to Learn
 
 <br>
-<img src="https://skillicons.dev/icons?i=sass,ts,tailwind,bootstrap,styledcomponents,react,nextjs,jest,nodejs,flutter" />
+<img src="https://skillicons.dev/icons?i=ts,bootstrap,styledcomponents,react,nextjs,jest,nodejs,flutter" />
 
 <br>
 <br>
